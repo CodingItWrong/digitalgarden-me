@@ -16,3 +16,5 @@ Over my history using computers and creating web sites and software, some of the
 - Ruby on Rails, a development framework focused on equipping individuals and small teams with tools to create feature-rich web applications that can compete with the offerings of much larger organizations
 - The iPhone, which when it was announced increased the power and user interface that people have in their pockets tremendously
 - Smalltalk, a historical computing platform I encountered that focused on making software maximally malleable and preventing barriers to modifying the software you use
+
+I've written more about HyperCard and Smalltalk at [User-Modifiable Software](https://usermodifiable.codingitwrong.com/).

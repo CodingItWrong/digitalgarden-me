@@ -8,4 +8,4 @@ It's currently published in the following way:
 
 - Markdown files written on any of my devices in [Obsidian](https://obsidian.md/)
 - Published to GitHub via [Obsidian Digital Garden](https://docs.forestry.md/)
-- Built and deployed via [Vercel](https://vercel.com) ()
+- Built and deployed via [Vercel](https://vercel.com) (going to try GitHub Pages later; currently running into an issue there)

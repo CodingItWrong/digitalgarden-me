@@ -8,7 +8,9 @@ It's currently published in the following way:
 
 - Markdown files written on any of my devices in [Obsidian](https://obsidian.md/) synced via [Obsidian Sync](https://obsidian.md/sync) (Plus to support multiple vaults, to keep the site separate from my personal notes vault)
 - Published to GitHub via [Obsidian Digital Garden](https://docs.forestry.md/)
-- Built and deployed via [Vercel](https://vercel.com) (going to try GitHub Pages later; currently running into an issue there)
+- [Vercel](https://vercel.com)  deploys the main branch to a preview subdomain automatically
+- After reviewing the preview site, I merge the changes to a live site git branch
+- Vercel deploys the live site branch to the live site
 
 It’s not a perfect setup; I may still someday revive an old project TypeLink for live editing of a personal wiki web site. But the Obsidian ecosystem does provide a lot of advantages.
 
@@ -16,5 +18,6 @@ Goals:
 
 - Sourced from Markdown files
 - Good UX to edit on macOS, Linux, iPad, and iPhone
-- Zero- or one-step directly from editor without intermediary steps
+- Reliable deploys. It doesn’t need to be perfect as it’s a personal web site. But if things are regularly breaking I will be disincentivized to post
+- Minimal steps to deploy from mobile
 - No or low cost

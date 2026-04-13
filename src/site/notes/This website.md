@@ -8,9 +8,16 @@ It's currently published in the following way:
 
 - Markdown files written on any of my devices in [Obsidian](https://obsidian.md/) synced via [Obsidian Sync](https://obsidian.md/sync) (Plus to support multiple vaults, to keep the site separate from my personal notes vault)
 - Published to GitHub via [Obsidian Digital Garden](https://docs.forestry.md/)
-- [Vercel](https://vercel.com)  deploys the main branch to a preview subdomain automatically
-- After reviewing the preview site, I merge the changes to a live site git branch
-- Vercel deploys the live site branch to the live site
+- This git repo has two branches:
+	- `main`
+	- `live`
+- Two separate [Vercel](https://vercel.com)  projects: one pointing to each of the `main` and `live` branches, which automatically publish any changes
+- So my workflow is:
+	- Write changes in Obsidian
+	- Publish to the main branch via Obsidian Digital Garden
+	- Vercel deploys to the preview domain
+	- I review the deployed changes and make any corrections needed
+	- When I’m happy with the changes I run the GitHub Actions workflow which merges them to the `live` branch where they’re then deployed to the live domain
 
 It’s not a perfect setup; I may still someday revive an old project TypeLink for live editing of a personal wiki web site. But the Obsidian ecosystem does provide a lot of advantages.
 

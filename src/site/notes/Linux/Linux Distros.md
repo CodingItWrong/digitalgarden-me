@@ -6,14 +6,14 @@ My assessment of Linux distros for my use cases. My knowledge of Linux is limite
 
 # Overall Recommendation: [[Linux/Linux Mint\|Linux Mint]]
 
-I agree with the common viewpoint that [Linux Mint](https://linuxmint.com/) is the best introductory Linux distro. I think this is true not only for nontechnical users, but also for users like me: software developers who want their OS to mostly “just work” and not _require_ a lot of fiddling to get working.
+I agree with the common viewpoint that Linux Mint is the best introductory Linux distro. I think this is true not only for nontechnical users, but also for users like me: software developers who want their OS to mostly “just work” and not _require_ a lot of fiddling to get working.
 
 Specifically, the benefits of Linux Mint I've seen are:
 
 - Easy install
 - Software store has a wide variety of apps, and it is fully-open source
 - I've found updates to be reliable
-- Easy to lock Linux kernel to an older LTS version, important to support Mac mini wireless drivers
+- Easy to lock Linux kernel to an older LTS version, important to run [[Linux/Linux on Mac Hardware\|on Mac]] for wireless drivers
 - Built-in snapshot/restore functionality _should_ help in case of issues (I haven't tested it yet)
 
 The only downsides:

@@ -19,12 +19,13 @@ Setup instructions for my Mint setups, and miscellaneous notes.
 - Installing my key apps
 	- 1Password: [.deb from their web site](https://1password.com/downloads/linux)
 	- Browsers
-		- Zen on high-RAM systems
-		- Waterfox on lower-RAM systems
+		- On high-RAM systems: Zen
+		- On lower-RAM systems: Waterfox
 	- Obsidian: via store
 	- Visual Studio Code: [.deb from their web site](https://code.visualstudio.com/Download)
+	- Gimp: via store
 	- Development tools
 		- Git: [[apt\|apt]]
 		- Node: via [nvm](https://github.com/nvm-sh/nvm?tab=readme-ov-file#install--update-script)
-		- Ruby: vi [rbenv](https://github.com/rbenv/rbenv?tab=readme-ov-file#basic-git-checkout)
+		- Ruby: via [rbenv](https://github.com/rbenv/rbenv?tab=readme-ov-file#basic-git-checkout)
 		- Postgres: apt

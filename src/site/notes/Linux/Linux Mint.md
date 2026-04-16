@@ -17,12 +17,12 @@ Setup instructions for my Mint setups, and miscellaneous notes.
 	- Apple hardware: do NOT update past 6.8. Update to 6.8 latest
 	- Non-Apple hardware: update to latest
 - Installing my key apps
-	- 1Password: from their web site
+	- 1Password: [.deb from their web site](https://1password.com/downloads/linux)
 	- Browsers
 		- Zen on high-RAM systems
 		- Waterfox on lower-RAM systems
 	- Obsidian: via store
-	- Visual Studio Code: via .deb
+	- Visual Studio Code: [.deb from their web site](https://code.visualstudio.com/Download)
 	- Development tools
 		- Git: [[apt\|apt]]
 		- Node: via nvm

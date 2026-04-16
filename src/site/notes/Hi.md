@@ -8,7 +8,7 @@ I’m Josh Justice.
 
 I’m a follower of Jesus.
 
-I live in [[Conyers\|Conyers]], GA with my wife and three kids.
+I live in Conyers, GA with my wife and three kids.
 
 My mission in life is to [[Mission\|empower people through technology]].
 

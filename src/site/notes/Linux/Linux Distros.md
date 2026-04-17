@@ -13,7 +13,7 @@ Specifically, the benefits of Linux Mint I've seen are:
 - Easy install
 - Software store has a wide variety of apps, and it is fully-open source
 - I've found updates to be reliable
-- Easy to lock Linux kernel to an older LTS version, important to run [[Linux/Linux on Mac Hardware\|on Mac]] for wireless drivers
+- Easy to lock Linux kernel to an older LTS version, important to run [[Linux/Linux on Intel Macs\|on Mac]] for wireless drivers
 - Built-in snapshot/restore functionality _should_ help in case of issues (I haven't tested it yet)
 
 The only downsides:

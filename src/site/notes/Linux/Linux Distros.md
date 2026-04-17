@@ -28,6 +28,7 @@ The only downsides:
 ### Pros
 
 - Good support for touch interfaces, including an on-screen virtual keyboard
+- Has an official ARM64 edition, which works virtualized [[Linux/Linux on Apple silicon\|on Apple silicon]]
 - Supports Wayland
 
 ### Cons

@@ -2,12 +2,10 @@
 {"dg-publish":true,"dg-permalink":"vintage/mac-oses/","permalink":"/vintage/mac-oses/","dg-note-properties":{}}
 ---
 
-- [[Vintage/BeOS\|BeOS]] and [[Haiku\|Haiku]]
 - [[Vintage/Copland\|Copland]]
-- [[Vintage/Mac OS X Server\|Mac OS X Server]]
+- [[Vintage/BeOS\|BeOS]] and [[Haiku\|Haiku]]
+- [[NeXTSTEP\|NeXTSTEP]]
+- [[Vintage/Rhapsody and Mac OS X Server 1.x\|Rhapsody and Mac OS X Server 1.x]]
 - [[Vintage/Mac OS X Developer Previews\|Mac OS X Developer Previews]]
-- [[Vintage/Rhapsody\|Rhapsody]]
 
-## Apple Hardware OS Support List
-
-Put a table here
+Not an OS, but a transitional technology: [[Vintage/Carbon\|Carbon]]

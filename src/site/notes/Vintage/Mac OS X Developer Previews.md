@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"vintage/mac-os-x-dps/","permalink":"/vintage/mac-os-x-dps/","dg-note-properties":{}}
+{"dg-publish":true,"dg-permalink":"vintage/mac/os-x-dps/","permalink":"/vintage/mac/os-x-dps/","dg-note-properties":{}}
 ---
 
 My working setup for DP 2 thru 4:

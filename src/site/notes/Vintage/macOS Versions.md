@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"vintage/macos-versions/","permalink":"/vintage/macos-versions/","dg-note-properties":{}}
+{"dg-publish":true,"dg-permalink":"vintage/mac/os-versions/","permalink":"/vintage/mac/os-versions/","dg-note-properties":{}}
 ---
 
 

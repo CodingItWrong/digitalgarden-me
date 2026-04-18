@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/haiku/","dg-note-properties":{}}
+{"dg-publish":true,"dg-permalink":"vintage/haiku/","permalink":"/vintage/haiku/","dg-note-properties":{}}
 ---
 
 - [Official site](https://www.haiku-os.org/)

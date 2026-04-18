@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"vintage/mac-oses/","permalink":"/vintage/mac-oses/","dg-note-properties":{}}
+{"dg-publish":true,"dg-permalink":"vintage/mac/obscure-oses/","permalink":"/vintage/mac/obscure-oses/","dg-note-properties":{}}
 ---
 
 - [[Vintage/Copland\|Copland]]

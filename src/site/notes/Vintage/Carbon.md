@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"vintage/carbon/","permalink":"/vintage/carbon/","dg-note-properties":{}}
+{"dg-publish":true,"dg-permalink":"vintage/mac/carbon/","permalink":"/vintage/mac/carbon/","dg-note-properties":{}}
 ---
 
 Carbon was a transitional technology that supported developers of classic Mac OS apps during the transition to Mac OS X.

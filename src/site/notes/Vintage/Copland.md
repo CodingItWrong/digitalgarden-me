@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"vintage/copland/","permalink":"/vintage/copland/","dg-note-properties":{}}
+{"dg-publish":true,"dg-permalink":"vintage/mac/copland/","permalink":"/vintage/mac/copland/","dg-note-properties":{}}
 ---
 
 My “working” setup:

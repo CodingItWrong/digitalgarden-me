@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"vintage/mdd/","permalink":"/vintage/mdd/","dg-note-properties":{}}
+{"dg-publish":true,"dg-permalink":"vintage/mac/mdd/","permalink":"/vintage/mac/mdd/","dg-note-properties":{}}
 ---
 
 The latest and most powerful Mac that can natively boot into classic Mac OS is the Power Mac G4 Mirrored Drive Door (MDD). Not all [models of MDD](https://everymac.com/systems/apple/powermac_g4/index-powermac-g4.html) support classic:

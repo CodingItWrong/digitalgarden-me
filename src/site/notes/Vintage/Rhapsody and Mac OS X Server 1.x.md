@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"vintage/rhapsody/","permalink":"/vintage/rhapsody/","dg-note-properties":{}}
+{"dg-publish":true,"dg-permalink":"vintage/mac/rhapsody/","permalink":"/vintage/mac/rhapsody/","dg-note-properties":{}}
 ---
 
 
